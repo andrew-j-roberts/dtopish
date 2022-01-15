@@ -31,7 +31,7 @@
     "immer": "^5.3.6",
     "mqtt": "^3.0.0",
     "regenerator-runtime": "^0.13.3",
-    "shelljs": "^0.8.3",
+    "shelljs": "^0.8.5",
     "xstate": "^4.7.6"
   }
 }
